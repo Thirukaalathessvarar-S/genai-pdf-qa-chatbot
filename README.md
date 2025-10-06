@@ -184,5 +184,9 @@ dashboard = pn.Column(
 ### OUTPUT:
 <img width="762" height="515" alt="image" src="https://github.com/user-attachments/assets/af9c4deb-f273-45b7-9b41-49c20e06435f" />
 
+<img width="658" height="387" alt="image" src="https://github.com/user-attachments/assets/e9446dbe-6185-40f6-8c95-5d98ac9a0937" />
+
+<img width="627" height="302" alt="image" src="https://github.com/user-attachments/assets/b35f6487-6f10-47f5-8446-644f0a2d7e9b" />
+
 ### RESULT:
 Thus, a question-answering chatbot capable of processing and extracting information from a provided PDF document using LangChain was implemented and evaluated for its effectiveness by testing its responses to diverse queries derived from the document's content successfully.
